@@ -1,1 +1,13 @@
+<html>
+    <head>
+	<link rel="stylesheet" href="styles.css">
+	</head>
+    <body>
+		<div class="pabigat">
+			<h2>Methodology</h2>
+			<hr class="linenablue">
+			<p>TThe reviewed literature shows that paper-based electrodes offer high mechanical flexibility, lightweight structure, and strong potential for sustainable energy storage applications. Compositing cellulose with conductive materials such as graphene and carbon nanotubes significantly improves electrical conductivity and electrochemical performance, particularly in paper-based supercapacitors. These devices demonstrate fast charge–discharge capability, good cycling stability, and reliable performance under mechanical deformation. However, challenges such as limited intrinsic conductivity, mechanical degradation under prolonged stress, and long-term stability remain, indicating the need for further material and structural optimization.</p>
+		<div/>
+    </body>
 
+</html>
