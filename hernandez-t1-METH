@@ -1,1 +1,17 @@
-hernandez-t1-METH
+<html>
+    <head>
+	<link rel="stylesheet" href="styles.css">
+	</head>
+    <body>
+		<div class="pabigat">
+			<h2>Methodology</h2>
+			<hr class="linenablue">
+			<p>This study adopts a systematic literature review approach to analyze recent developments in paper-based electrodes for flexible energy storage applications. Peer-reviewed research articles, review papers, and conference proceedings published in reputable scientific journals were collected from major academic databases such as Scopus, Web of Science, ScienceDirect, and Google Scholar.
+
+Relevant literature was selected using keywords including paper-based electrodes, cellulose-based energy storage, flexible supercapacitors, freestanding paper electrodes, and wearable energy storage devices. The selected studies were screened based on relevance to electrode architecture, fabrication methods, material composition, and electrochemical performance.
+
+The reviewed literature was systematically categorized into paper-supported electrodes and freestanding paper-like structures. Fabrication strategies, material design approaches, and performance metrics—such as energy density, power density, cycling stability, and mechanical flexibility—were comparatively analyzed. Current challenges, limitations, and emerging trends were critically evaluated to identify research gaps and future directions for the development of sustainable and scalable paper-based energy storage technologies.</p>
+		<div/>
+    </body>
+
+</html>
