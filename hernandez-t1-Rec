@@ -1,1 +1,13 @@
+<html>
+    <head>
+	<link rel="stylesheet" href="styles.css">
+	</head>
+    <body>
+		<div class="pabigat">
+			<h2>Methodology</h2>
+			<hr class="linenablue">
+			<p>Future research should focus on improving the electrical conductivity and mechanical durability of paper-based electrodes through advanced material compositing, surface functionalization, and structural engineering. Efforts should also be directed toward enhancing long-term cycling stability and performance under repeated mechanical deformation. Additionally, scalable, low-cost, and environmentally friendly fabrication methods should be explored to enable practical commercialization. Further studies integrating paper-based energy storage devices into real wearable and flexible electronic systems are recommended to evaluate their reliability and real-world applicability.</p>
+		<div/>
+    </body>
 
+</html>
