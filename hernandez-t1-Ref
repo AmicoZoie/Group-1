@@ -1,0 +1,34 @@
+<html>
+    <head>
+	<link rel="stylesheet" href="styles.css">
+	</head>
+    <body>
+		<div class="pabigat">
+			<h2>Methodology</h2>
+			<hr class="linenablue">
+			<ul>
+          <li>S.M. Vahidhosseini et al.<br>
+Efficient energy harvesting using triboelectric nanogenerators (TENGs): integration with technologies, wearable applications, and future trends <br>
+Renew Sustain Energy Rev
+(2025)</li>
+          <li>H. Du et al. <br>
+Unlocking smart wearable applications: the “potential code” of cellulose-based radiative cooling materials<br>
+Renew Sustain Energy Rev
+(2025)</li>
+          <li>A.R.M. Siddique et al. <br>
+A review of the state of the science on wearable thermoelectric power generators (TEGs) and their existing challenges <br>
+Renew Sustain Energy Rev
+(2017)</li>
+          <li>N.I. Azmi et al. <br>
+Cellulose-based hydrogels in flexible supercapacitors: a sustainable approach for energy storage solutions <br>
+Renew Sustain Energy Rev
+(2025)</li>
+          <li>I.K. Popoola et al. <br>
+Recent advances in halide perovskite supercapacitors for enhanced performance and stability <br>
+Renew Sustain Energy Rev
+(2025)</li>
+      </ul>
+		<div/>
+    </body>
+
+</html>
