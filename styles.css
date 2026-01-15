@@ -10,6 +10,8 @@
     top:75px;
     left:px;
     padding:0px 25px;
+    box-shadow: 2px 2px 2px rgba(0,0,0,0.15), 0 0 0 1px rgba(9, 30, 66, 0.08) inset;
+
 
 }
 
@@ -60,5 +62,6 @@ h5{
     top:75px;
     left:px;
     padding:0px 25px;
+
 
 
