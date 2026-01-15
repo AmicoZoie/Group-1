@@ -8,12 +8,6 @@
     position: absolute;
     z-index:1;
     top:75px;
-    left:250px;
+    left:100px;
     padding:0px 25px;
-
-}
-
-.linenablue{
-    size:4px;
-    color:#000057; 
 }
