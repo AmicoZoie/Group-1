@@ -8,16 +8,6 @@
     position: absolute;
     z-index:1;
     top:75px;
-    left:100px;
+    left:px;
     padding:0px 25px;
-
-}
-
-.linenablue{
-    size:4px;
-    color:#000057; 
-}
-
-.mamamo{
-    color:white;
 }
