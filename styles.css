@@ -1,7 +1,7 @@
 .pabigat{
     width:80%; 
     height:300px;
-    border: 1px solid ##010136;
+    border: 1px solid #010136;
     border-radius: 8px; 
     background-color:rgb(143, 171, 197, 0.5);
     overflow: hidden;
@@ -25,6 +25,7 @@ h1{
 }
 h2{
     text-align: center;
+    color:#000057;
 }
 h3{
     text-align: center;
@@ -37,7 +38,7 @@ h5{
 }
 .linenablue{
     size:4px;
-    color:#000057; 
+    color:#010136; 
 }
 
 .mamamo{
@@ -78,6 +79,7 @@ li{
     left:px;
     padding:0px 25px;
 {
+
 
 
 
