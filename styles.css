@@ -14,7 +14,7 @@
 }
 
 body{
-    font-family: Garamond, serif;
+    font-family: Garamond, serif;color:#4c4c85;
 }
 p{
     text-align: justify;
@@ -81,4 +81,5 @@ li{
     left:px;
     padding:0px 25px;
 }
+
 
