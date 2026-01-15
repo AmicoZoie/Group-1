@@ -1,0 +1,13 @@
+.pabigat{
+    width:750px; 
+    height:300px;
+    border: 1px solid #ccc;
+    border-radius: 8px; 
+    background-color:rgb(143, 171, 197, 0.5);
+    overflow: hidden;
+    position: absolute;
+    z-index:1;
+    top:75px;
+    left:250px;
+    padding:0px 25px;
+}
