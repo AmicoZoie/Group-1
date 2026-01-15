@@ -59,12 +59,6 @@ a{
   border-color: #000057; 
     border-radius: 8px; 
     background-color:rgb(143, 171, 197, 0.5);
-    overflow: hidden;
-    position: absolute;
-    z-index:1;
-    top:75px;
-    left:px;
-    padding:0px 25px;
 {
 .tanga{
     width:85%; 
@@ -81,6 +75,7 @@ a{
     left:px;
     padding:0px 25px;
 {
+
 
 
 
